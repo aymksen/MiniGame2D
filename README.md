@@ -1,3 +1,3 @@
 # MiniGame2D
 
-First Game I ever made using Unity 
+First Game I ever made using Unity and C#
