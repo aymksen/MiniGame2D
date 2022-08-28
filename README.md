@@ -5,9 +5,9 @@
 
 <h2 align="center">Screenshots</h2>
 
-<h3>Double Jump and Checkpoitn system</h3>
+<h3>Double Jump and Checkpoints system</h3>
 <div>Jumps can be reseted once you touch the ground .</div>
-<div>Checkpoints saves your progress when you run out of hearts .</div>
+<div>Checkpoints save your progress when you run out of hearts .</div>
   <img align="center" src="https://user-images.githubusercontent.com/76121581/175831347-7757bf2c-56c6-4ca7-91d5-b0cbf098a725.gif" alt="javascript" width="1000"/>
 
 
