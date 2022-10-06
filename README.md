@@ -1,6 +1,9 @@
-# MiniGame2D
+<h1 align="center">Languages and Tools</h1>
 
-<h1 align="center">First Game I have made using Unity and C#</h1>
+
+<img align="left" alt="unity" width="26px" src="https://user-images.githubusercontent.com/76121581/194315561-6cc26653-e796-4e95-930b-77748ea6acc8.png" style="padding-right:10px;" /><p>Unity</p>
+
+<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/76121581/194315366-2bcebc86-ce4c-4909-ba74-2792117667b4.png" style="padding-right:10px;" /><p>C#</p>
 
 
 <h2 align="center">Screenshots</h2>
