@@ -1,9 +1,6 @@
-<center>
 
 # [Play here!](https://aymksen.itch.io/2dd)
 
-</center>
-  
 <h2>Languages and Tools</h2>
 
 
