@@ -1,7 +1,7 @@
 
 
 
-### Try the game: aymksen.itch.io/2dd
+### [Play](https://aymksen.itch.io/2dd)
 
 <h1 align="center">Languages and Tools</h1>
 
